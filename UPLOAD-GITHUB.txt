@@ -1,0 +1,6 @@
+UPLOAD KE GITHUB PAGES
+
+Upload SELURUH ISI folder ZIP ini ke root repository. Jangan upload folder pembungkus.
+Pastikan index.html, logo-vortexus.png, logo-smkn1.png, assets/, dan file lainnya berada di level yang sama.
+Jika memakai GitHub Pages, Settings > Pages > Deploy from branch > main > / (root).
+Setelah upload, tunggu Actions selesai lalu hard refresh Ctrl+F5.
